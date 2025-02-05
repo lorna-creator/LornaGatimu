@@ -7,10 +7,10 @@
 - 💡 Exploring **Machine Learning & Data Visualization**
 
 ## 📌 Featured Projects
-**[Aircraft Risk Assessment](https://github.com/lorna-creator/my_projectP1)**
-**[Vaccine Prediction Analysis](https://github.com/lorna-creator/Modelling-Project)**
-**[Movie Prediction](https://github.com/StephenMulingwa/Group_Project)**
-**[Recomendation System](https://github.com/Masinde10/Group3_phase4_Project)**
+- **[Aircraft Risk Assessment](https://github.com/lorna-creator/my_projectP1)**
+- **[Vaccine Prediction Analysis](https://github.com/lorna-creator/Modelling-Project)**
+- **[Movie Prediction](https://github.com/StephenMulingwa/Group_Project)**
+- **[Recomendation System](https://github.com/Masinde10/Group3_phase4_Project)**
 
 
 ## 💻 Skills
