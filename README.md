@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lorna Gatimu!
-🎓 Aspiring Data Scientist | 🌍 Environmental & Agroecosystem Enthusiast | 📊 Python & Data Visualization  
+🎓 Aspiring Data Scientist | 🌍 Environmental & Ecosystem Enthusiast | 📊 Python & Data Visualization  
 
 ## 🔍 About Me
 - 🌱 Currently learning **Data Science & AI**
